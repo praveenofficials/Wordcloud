@@ -1,0 +1,10 @@
+# Word Cloud
+ 
+ This project defines you that how to visualise the Most frequent words in the document
+ 
+ 
+ For this wordcloud we need to install WordCloud from the wordcloud
+ after this we have to install Matplotlib.pyplot for the visualisation of the Image
+ # Acknowledgements 
+ This code has been modified from the greeks to greeks  
+ Thanks to Greek to Greeks
